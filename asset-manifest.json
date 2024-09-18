@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Handsly/static/css/main.3d997935.css",
+    "main.js": "/Handsly/static/js/main.30f8ccac.js",
+    "static/media/card.png": "/Handsly/static/media/card.8b5427ba1f0b5c62ccfa.png",
+    "static/media/logo.png": "/Handsly/static/media/logo.2e805dd1578fea892ef1.png",
+    "static/media/eng.jpg": "/Handsly/static/media/eng.938ec475b031266f86ec.jpg",
+    "static/media/network.png": "/Handsly/static/media/network.a22915d98a54f1b0cf32.png",
+    "static/media/Orbitron.ttf": "/Handsly/static/media/Orbitron.7228a1c750b75b23bdb4.ttf",
+    "static/media/engineer2.png": "/Handsly/static/media/engineer2.4f5cddc5f5e5b5f888f9.png",
+    "static/media/engineer3.png": "/Handsly/static/media/engineer3.fd960a7fab844e980b7a.png",
+    "static/media/engineer1.png": "/Handsly/static/media/engineer1.bfe436bf8b2b7a06df78.png",
+    "static/media/card2.png": "/Handsly/static/media/card2.b21746c67c3198827233.png",
+    "static/media/start.png": "/Handsly/static/media/start.06c7163ef1e19685f7b3.png",
+    "static/media/Solutions.svg": "/Handsly/static/media/Solutions.8a0e035e466e22f8cfd1f87a40162c99.svg",
+    "static/media/CustomerSupport.svg": "/Handsly/static/media/CustomerSupport.bdcff948d7816d28fece7c4e8e880762.svg",
+    "static/media/Map.png": "/Handsly/static/media/Map.f85d2e84d080b52c3fbc.png",
+    "static/media/PressInquiries.svg": "/Handsly/static/media/PressInquiries.abd88efaf91adf732352c6699a8f3df4.svg",
+    "index.html": "/Handsly/index.html",
+    "main.3d997935.css.map": "/Handsly/static/css/main.3d997935.css.map",
+    "main.30f8ccac.js.map": "/Handsly/static/js/main.30f8ccac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d997935.css",
+    "static/js/main.30f8ccac.js"
+  ]
+}
